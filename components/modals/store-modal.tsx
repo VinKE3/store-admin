@@ -53,7 +53,7 @@ export const StoreModal = () => {
 
   return (
     <Modal
-      title="Crear Tiemda"
+      title="Crear Tienda"
       description="Agregar Nueva Tienda para Empezar a Vender."
       isOpen={storeModal.isOpen}
       onClose={storeModal.onClose}
